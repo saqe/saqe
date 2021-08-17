@@ -1,5 +1,5 @@
 ## Hi 👋
-### Saqib here, a freelance Software Engineer (Python/Elixir).
+### Saqib here, a freelance Software Engineer (Django/Python, Pheonix/Elixir).
 
 Here are some ideas to get you started:
 
