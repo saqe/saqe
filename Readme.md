@@ -1,5 +1,5 @@
 ## Hi 👋
-### Saqib here, a freelance Software Engineer (Django/Python, Pheonix/Elixir).
+### Saqib here, a Software Engineer (Django/Python, Pheonix/Elixir WebSockets & GraphQL).
 
 Here are some ideas to get you started:
 
