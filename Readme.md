@@ -1,7 +1,7 @@
 ## Hi 👋
 ### Saqib here, a Software Engineer (Django/Python, Pheonix/Elixir WebSockets & GraphQL).
 
-Here are some ideas to get you started:
+Some of things, I am involved in
 
 - 🔭 I’m currently working on ... Elixir, Process Automation, Bots scripting, Data Analysis & Scalable API Development
 - 🌱 I’m currently learning ... Microservices 🐍
