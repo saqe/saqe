@@ -16,8 +16,8 @@ Some of things, I am involved in
 <br>
 
 📊 Statistics
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqe&show_icons=true&locale=en" alt="saqe" width="410" /></p>
+<br>
 
-![Saqe's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqe&theme=dark&layout=compact&langs_count=8&card_width=188)
-![Saqe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqe&theme=dark&layout=compact&show_icons=true&count_private=true&line_height=24)
-<hr>
+![Saqe's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqe&theme=light&layout=compact&langs_count=8&card_width=410)
+![Saqe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqe&theme=light&layout=compact&show_icons=true&count_private=true&line_height=24)
+<br>
