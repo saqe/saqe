@@ -20,5 +20,5 @@ Some of things, I am involved in
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,cloudflare)](https://saqe.dev)
 
 #### 📊 Statistics
-![Saqe's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqe&theme=light&layout=compact&langs_count=8&card_width=370)
-![Saqe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqe&theme=light&layout=compact&show_icons=true&count_private=true&line_height=24)
+![Saqe's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqe&theme=light&layout=compact&langs_count=8&card_width=450)
+<!-- ![Saqe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqe&theme=light&layout=compact&show_icons=true&count_private=true&line_height=24) -->
