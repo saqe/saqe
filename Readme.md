@@ -14,9 +14,9 @@ Some of things, I am involved in
 </ul>
 
 #### 👨‍💻 Things I am interested in
-[![My Skills](https://skillicons.dev/icons?i=python,elixir)](https://saqe.dev) | 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,graphql)](https://saqe.dev) | 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,dynamodb,postgres,planetscale)](https://saqe.dev) | 
+[![My Skills](https://skillicons.dev/icons?i=python,elixir,go)](https://saqe.dev) | 
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,graphql)](https://saqe.dev) | 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,dynamodb,postgres)](https://saqe.dev) | 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,cloudflare)](https://saqe.dev)
 
 #### 📊 Statistics
