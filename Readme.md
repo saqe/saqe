@@ -3,7 +3,7 @@
 
 Some of things, I am involved in
 - 🔭 I’m currently working on ... Python/Elixir, Process Automation, Bots scripting, Data Analysis & Scalable API Development
-- 🌱 I’m currently learning ... Go and Microservices and German 🇩🇪
+- 🌱 I’m currently learning ... Go, Microservices and German 🇩🇪
 - 💬 Ask me about ... Serverless WebApp Developement & MicroServices 💻
 
 #### 📝  Latest Blog Articles
